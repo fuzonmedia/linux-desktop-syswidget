@@ -141,6 +141,16 @@ pkill -f sys_widget_final_with_embedded_icon.py
 ```
 
 ---
+<img width="773" height="1365" alt="image" src="https://github.com/user-attachments/assets/7e749e20-86c8-4620-92f5-36755b1e155c" />
+<img width="764" height="1362" alt="image" src="https://github.com/user-attachments/assets/f03c6d18-d1bc-4305-afad-caa9f8a4c5ad" />
+
+
+
+
+
+
+
+
 
 ## Roadmap
 
