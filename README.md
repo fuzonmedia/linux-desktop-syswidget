@@ -70,7 +70,7 @@ Clone the repo:
 
 ```bash
 git clone https://github.com/fuzonmedia/linux-desktop-syswidget.git
-cd syswidget
+cd linux-desktop-syswidget
 ```
 
 Run installer:
